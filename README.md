@@ -4,7 +4,7 @@ MERN full-stack web developer currently pursuing a Bachelor's degree in Technolo
 
 ## 🌐 Visit My Website
 
-Explore my work and services at CodeAlchemy (launching soon!).
+Explore my work and services at **[CodeAlchemy](https://code-alchemy-bcqv.vercel.app/)**.
 
 ## 🚀 About Me
 
